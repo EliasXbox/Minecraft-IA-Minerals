@@ -1,0 +1,11 @@
+# Ignora arquivos temporários  
+*.temp  
+*.bak  
+
+# Ignora pastas de builds  
+build/  
+out/  
+
+# Minecraft  
+*.mcworld  
+*.mcaddon  
