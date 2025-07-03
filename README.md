@@ -1,14 +1,5 @@
-
-
-  _____ _       ___  ___          _ _  _____  _____  
- |_   _| |      |  \/  |         | | |/  ___|/  __ \  
-   | | | |      | .  . | __ _  __| | |\ `--. | /  \/  
-   | | | |      | |\/| |/ _` |/ _` | | `--. \| |  
-   | | | |____  | |  | | (_| | (_| | |/\__/ /| \__/\  
-   \_/ \_____/  \_|  |_/\__,_|\__,_|_|\____/  \____/  
-         CRIADO POR ELIASGX + DEEPSEEK & AMIGOS IA  
-
-> Minérios de IAs para Minecraft Bedrock! Por **[EliasGX](https://github.com/EliasGX)** + **IA Alliance** (ChatGPT, MetaAI, Gemini, DeepSeek).  
+# Minérios de IAs para Minecraft Bedrock!
+Por **[EliasGX](https://github.com/EliasGX)** + **IA Alliance** (ChatGPT, MetaAI, Gemini, DeepSeek).  
 
 🔧 **Status**: Em desenvolvimento  
 🎮 **Versão**: v0.1-alpha  
