@@ -1,5 +1,5 @@
 # Minérios de IAs para Minecraft Bedrock!
-Por **[EliasGX](https://github.com/EliasGX)** + **IA Alliance** (ChatGPT, MetaAI, Gemini, DeepSeek).  
+Por **[EliasGX](https://github.com/EliasXbox)** + **IA Alliance** (ChatGPT, MetaAI, Gemini, DeepSeek).  
 
 🔧 **Status**: Em desenvolvimento  
 🎮 **Versão**: v0.1-alpha  
@@ -17,6 +17,6 @@ Por **[EliasGX](https://github.com/EliasGX)** + **IA Alliance** (ChatGPT, MetaAI
 | Chattonium    | Verde     | ChatGPT     |  
 
 ## 🤝 Créditos  
-- **Desenvolvimento**: [EliasGX](https://github.com/EliasGX)  
+- **Desenvolvimento**: [EliasGX](https://github.com/EliasXbox)  
 - **Ideias & Código**: DeepSeek Chat  
 - **Texturas**: ChatGPT, MetaAI, Gemini  
